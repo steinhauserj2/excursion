@@ -14,3 +14,13 @@ a.download {
   font-size: 16px;
 
 }
+
+.description {
+  font-weight: 300;
+  color: gray;
+}
+
+.footer {
+  color: gray;
+  text-align: right;
+}
