@@ -9,6 +9,11 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
 a.download {
   color: aquamarine;
   font-size: 16px;
@@ -16,11 +21,15 @@ a.download {
 }
 
 .description {
-  font-weight: 300;
   color: gray;
+  font-size: 21px;
 }
 
 .footer {
   color: gray;
   text-align: right;
+}
+
+img {
+  padding: 20px;
 }
